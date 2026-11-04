@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.3",
-  "releaseNotes": "• 100% International English UI (Play Store Ready)\n• Official Google login branding icon\n• Clean minimalist login screen without clutter\n• Pull-to-refresh data sync across financial dashboards",
+  "latestVersion": "1.0.4",
+  "releaseNotes": "• Seamless 1-tap Google Account Chooser bottom sheet\n• Choose an existing Google account or add another account directly\n• Minimalist login screen with official Google 'G' branding",
   "isMandatory": false,
   "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/latest"
 }

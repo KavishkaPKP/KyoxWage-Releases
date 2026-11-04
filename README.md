@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/KavishkaPKP/KyoxWage-Releases/releases/latest">
-    <img src="https://img.shields.io/badge/Download-KyoxWage%20APK%20(v1.0.3)-E5252A?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+    <img src="https://img.shields.io/badge/Download-KyoxWage%20APK%20(v1.0.4)-E5252A?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </p>
 
@@ -23,7 +23,8 @@ Download the official release APK directly to your Android device:
 
 | Release | Version | Direct Download Link | Size |
 | :--- | :---: | :--- | :---: |
-| **KyoxWage Android Release (Latest)** | `v1.0.3` | **[⬇️ Download KyoxWage-v1.0.3.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.3/KyoxWage-v1.0.3.apk)** | ~53 MB |
+| **KyoxWage Android Release (Latest)** | `v1.0.4` | **[⬇️ Download KyoxWage-v1.0.4.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.4/KyoxWage-v1.0.4.apk)** | ~53 MB |
+| KyoxWage Android Release | `v1.0.3` | [⬇️ Download KyoxWage-v1.0.3.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.3/KyoxWage-v1.0.3.apk) | ~53 MB |
 | KyoxWage Android Release | `v1.0.2` | [⬇️ Download KyoxWage-v1.0.2.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.2/KyoxWage-v1.0.2.apk) | ~53 MB |
 | KyoxWage Android Release | `v1.0.1` | [⬇️ Download KyoxWage-v1.0.1.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.1/KyoxWage-v1.0.1.apk) | ~53 MB |
 | KyoxWage Android Release | `v1.0.0` | [⬇️ Download KyoxWage-v1.0.0.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.0/KyoxWage-v1.0.0.apk) | ~53 MB |
@@ -32,16 +33,16 @@ Download the official release APK directly to your Android device:
 
 ## ✨ Features & Highlights
 
+* **🔑 Seamless 1-Tap Google Account Chooser:**
+  * Tap "Continue with Google" to immediately open the Google account selector.
+  * Pick your Google account with one tap or add a new one.
+  * Instant auto-login into your personal financial vault.
+
 * **🌍 100% International Standard English UI:**
   * Clean, polished, and ready for global Google Play Store standards.
 
 * **🔄 Pull-to-Refresh Support:**
   * Swipe down from anywhere on financial screens to instantly sync and reload all calculations, storage data, and cloud backups.
-
-* **🔑 Official Google Sign-In & Email Fallback:**
-  * Official Google brand logo on authentication.
-  * Clutter-free, minimalist login interface.
-  * Instant email access fallback ensuring no user is ever locked out.
 
 * **📊 Smart Financial Dashboard:**
   * Real-time salary surplus & deficit tracking.
@@ -79,7 +80,7 @@ Download the official release APK directly to your Android device:
 
 ## 📱 How to Install the APK on Android
 
-1. Download **[KyoxWage-v1.0.3.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.3/KyoxWage-v1.0.3.apk)** to your Android smartphone.
+1. Download **[KyoxWage-v1.0.4.apk](https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.4/KyoxWage-v1.0.4.apk)** to your Android smartphone.
 2. Tap the downloaded APK file in your notification bar or file manager.
 3. If prompted by Android, enable **"Allow from this source"** (Install unknown apps) in your device settings.
 4. Tap **Install** and launch **KyoxWage**!

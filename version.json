@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.7",
-  "releaseNotes": "• Month-by-month flexible salary adjustments (increments, bonuses, deductions)\n• Real-time update notifications whether inside or outside app\n• Ultra-smooth bouncing momentum scrolling\n• Direct Google Drive Vault backup",
+  "latestVersion": "1.0.8",
+  "releaseNotes": "• Seamless in-app package installer (no external GitHub/browser redirect)\n• Direct visual progress tracking\n• Month-by-month flexible salary adjustments\n• Real-time notifications and ultra-smooth scrolling",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.7/KyoxWage-v1.0.7.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.8/KyoxWage-v1.0.8.apk"
 }

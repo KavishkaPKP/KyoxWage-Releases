@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.5",
-  "releaseNotes": "• Real Google Sign-In activated via official Firebase OAuth\n• Android system account picker displays real device Google accounts\n• Seamless one-tap authentication and cloud synchronization",
+  "latestVersion": "1.0.6",
+  "releaseNotes": "• Google Drive Vault automatic midnight sync & restore\n• Clean install starts with zero demo data\n• Dedicated Account Settings page\n• Delete Account with secure confirmation\n• Direct category-first transaction entry\n• In-app update download with live progress bar",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/latest"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.6/KyoxWage-v1.0.6.apk"
 }

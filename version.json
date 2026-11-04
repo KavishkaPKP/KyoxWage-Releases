@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.2",
-  "releaseNotes": "• Google Sign-In & Quick Email login fallback enabled\n• Zero friction access without mandatory Google Cloud SHA-1 setup\n• Cloud Backup, custom categories and performance updates",
+  "latestVersion": "1.0.3",
+  "releaseNotes": "• 100% International English UI (Play Store Ready)\n• Official Google login branding icon\n• Clean minimalist login screen without clutter\n• Pull-to-refresh data sync across financial dashboards",
   "isMandatory": false,
   "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/latest"
 }

@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.0",
-  "releaseNotes": "• Official Launch of KyoxWage v1.0.0\n• Smart salary & monthly comparison analytics\n• Automatic payday reminders & AES-256 vault",
+  "latestVersion": "1.0.1",
+  "releaseNotes": "• Dedicated Settings Screen with Google Cloud Auto-Backup toggle\n• In-app Check for Updates\n• Splash screen Powered by KyoxDev branding & auto-notification permission prompt\n• Delete All Data feature with security confirmation dialog\n• Performance and security optimizations",
   "isMandatory": false,
   "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/latest"
 }

@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.19",
-  "releaseNotes": "• Replaced progress bar with smooth horizontal wave dots loading animation\n• Clean dynamic Available Balance from all earnings\n• Robust direct CDN in-app updater",
+  "latestVersion": "1.0.20",
+  "releaseNotes": "• Fixed cloud backup buttons and infinite syncing loop: Backup Now and Restore Data now work instantly\n• Enhanced Google Drive Vault folder creation and direct encrypted backup synchronization\n• Automatic token refresh and reliable timeout guards",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.19.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.20.apk"
 }

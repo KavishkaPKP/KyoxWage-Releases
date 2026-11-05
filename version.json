@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.8",
-  "releaseNotes": "• Seamless in-app package installer (no external GitHub/browser redirect)\n• Direct visual progress tracking\n• Month-by-month flexible salary adjustments\n• Real-time notifications and ultra-smooth scrolling",
+  "latestVersion": "1.0.9",
+  "releaseNotes": "• Automated payday salary confirmation popup (confirm or adjust salary with bonuses/deductions)\n• In-app seamless auto installer (no external GitHub/browser redirect)\n• Month-by-month flexible salary adjustments\n• Real-time notifications and ultra-smooth scrolling",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.8/KyoxWage-v1.0.8.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.9/KyoxWage-v1.0.9.apk"
 }

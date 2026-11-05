@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.12",
-  "releaseNotes": "• Seamless package installer FileProvider fix (works on all Android devices)\n• Biometric App Lock (Fingerprint, Face ID, and PIN vault protection)\n• Privacy Shield (blocks screenshots & task switcher preview)\n• Military-grade AES-256 local and cloud backup encryption\n• Automated payday salary confirmation popup",
+  "latestVersion": "1.0.13",
+  "releaseNotes": "• 100% User Scoped Data Isolation (no cross-account data leaks)\n• Google Drive KyoxWage Vault Folder & Auto Cloud Sync fix\n• Biometric Lock prompt right on app launch (before Dashboard shows)\n• Deep clean account deletion & session separation\n• Seamless in-app package updater",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.12/KyoxWage-v1.0.12.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.13/KyoxWage-v1.0.13.apk"
 }

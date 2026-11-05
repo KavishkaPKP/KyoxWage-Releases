@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.21",
-  "releaseNotes": "• Completely eliminated Google account chooser popup on app open, update, and background auto-sync\n• Instant seamless launch to dashboard with 100% persistent session\n• Account authorization only requested when user explicitly taps Backup Now in Account Settings\n• Smooth horizontal wave dots loading animation for in-app updates",
+  "latestVersion": "1.0.22",
+  "releaseNotes": "• Google Drive Backup and Restore directly connect to logged-in Gmail account without asking to choose an account\n• Removed 50/30/20 Budget Rule Guide from Financial Analytics\n• Pre-authorized Google Drive token persistence and zero interruption workflow",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.21.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.22.apk"
 }

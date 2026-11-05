@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.10",
-  "releaseNotes": "• First-time permission prompt for seamless in-app updater\n• Direct one-click system settings access\n• Automated payday salary confirmation popup\n• Month-by-month flexible salary adjustments\n• Ultra-smooth scrolling",
+  "latestVersion": "1.0.11",
+  "releaseNotes": "• Biometric App Lock (Fingerprint, Face ID, and PIN vault protection)\n• Privacy Shield (blocks screenshots & recent task thumbnail snooping)\n• Military-grade AES-256 local and cloud backup encryption\n• Proactive first-time permission setup for seamless in-app updater\n• Automated payday salary confirmation popup",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.10/KyoxWage-v1.0.10.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.11/KyoxWage-v1.0.11.apk"
 }

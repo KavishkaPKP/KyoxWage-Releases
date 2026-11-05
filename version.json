@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.14",
-  "releaseNotes": "• Direct Google Drive Backup to KyoxWage Vault on 'Backup Now'\n• Active Google OAuth & Drive scope auto-authorization\n• 100% User Scoped Data Isolation\n• Instant Biometric Lock on app launch (before Dashboard displays)",
+  "latestVersion": "1.0.15",
+  "releaseNotes": "• Zero-salary for unrecorded past months (past months now show Rs. 0.00 unless explicitly entered)\n• Removed legacy hardcoded placeholder base salary\n• Direct Google Drive Backup to KyoxWage Vault on 'Backup Now'\n• Active Google OAuth & Drive scope auto-authorization\n• Instant Biometric Lock on app launch",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.14/KyoxWage-v1.0.14.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.15/KyoxWage-v1.0.15.apk"
 }

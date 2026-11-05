@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.20",
-  "releaseNotes": "• Fixed cloud backup buttons and infinite syncing loop: Backup Now and Restore Data now work instantly\n• Enhanced Google Drive Vault folder creation and direct encrypted backup synchronization\n• Automatic token refresh and reliable timeout guards",
+  "latestVersion": "1.0.21",
+  "releaseNotes": "• Completely eliminated Google account chooser popup on app open, update, and background auto-sync\n• Instant seamless launch to dashboard with 100% persistent session\n• Account authorization only requested when user explicitly taps Backup Now in Account Settings\n• Smooth horizontal wave dots loading animation for in-app updates",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.20.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.21.apk"
 }

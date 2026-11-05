@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.16",
-  "releaseNotes": "• Fixed in-app updater progress bar stall & fast reliable package installer\n• Kept active Google account persistent without prompting re-login\n• Background push notifications for new updates even when app is closed\n• Zero-salary for unrecorded past months",
+  "latestVersion": "1.0.17",
+  "releaseNotes": "• Never prompt Google accounts on app startup (only prompts on explicit login page)\n• Fast instant launch to Dashboard without modal interruptions\n• Robust in-app updater with resilient download engine\n• Background push notifications on phone status bar",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.16/KyoxWage-v1.0.16.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.17/KyoxWage-v1.0.17.apk"
 }

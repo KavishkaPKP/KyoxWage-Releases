@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.17",
-  "releaseNotes": "• Never prompt Google accounts on app startup (only prompts on explicit login page)\n• Fast instant launch to Dashboard without modal interruptions\n• Robust in-app updater with resilient download engine\n• Background push notifications on phone status bar",
+  "latestVersion": "1.0.18",
+  "releaseNotes": "• Removed fixed Base Salary: your Available Balance dynamically updates with all real income and earnings\n• All income streams (salary, freelance, side-income, bonuses) immediately calculate into Available Balance\n• Payday Reminders dialog redesigned for clean monthly alert scheduling\n• Direct high-speed in-app update engine with live smooth progress bar and zero redirects",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.17/KyoxWage-v1.0.17.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.18.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.23",
-  "releaseNotes": "• Fixed Google Drive 'KyoxWage Vault' folder creation and authorization\n• Automatic token refresh and recovery for Google Drive Backup & Restore\n• Seamlessly uses logged-in Google account without account chooser popup\n• Clear diagnostic status reporting for cloud sync",
+  "latestVersion": "1.0.24",
+  "releaseNotes": "• Android Jetpack WorkManager background update checker (notifies even when app is closed or phone reboots)\n• High priority heads-up phone status bar notifications for app updates\n• Frequent in-memory update monitoring every 5 minutes\n• Enhanced reliability and Doze mode compatibility",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.23.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.24.apk"
 }

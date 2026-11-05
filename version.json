@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.13",
-  "releaseNotes": "• 100% User Scoped Data Isolation (no cross-account data leaks)\n• Google Drive KyoxWage Vault Folder & Auto Cloud Sync fix\n• Biometric Lock prompt right on app launch (before Dashboard shows)\n• Deep clean account deletion & session separation\n• Seamless in-app package updater",
+  "latestVersion": "1.0.14",
+  "releaseNotes": "• Direct Google Drive Backup to KyoxWage Vault on 'Backup Now'\n• Active Google OAuth & Drive scope auto-authorization\n• 100% User Scoped Data Isolation\n• Instant Biometric Lock on app launch (before Dashboard displays)",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.13/KyoxWage-v1.0.13.apk"
+  "downloadUrl": "https://github.com/KavishkaPKP/KyoxWage-Releases/releases/download/v1.0.14/KyoxWage-v1.0.14.apk"
 }

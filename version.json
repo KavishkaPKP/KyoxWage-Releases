@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.24",
-  "releaseNotes": "• Android Jetpack WorkManager background update checker (notifies even when app is closed or phone reboots)\n• High priority heads-up phone status bar notifications for app updates\n• Frequent in-memory update monitoring every 5 minutes\n• Enhanced reliability and Doze mode compatibility",
+  "latestVersion": "1.0.25",
+  "releaseNotes": "• Upgraded Security & Vault Protection: customizable Auto-Lock Delay (Immediately, 30s, 1m, 5m)\n• Resilient Biometric & PIN App Lock with seamless lifecycle grace period\n• Android WorkManager background update notifications when app is closed\n• Google Drive KyoxWage Vault cloud backup and self-healing token authorization",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.24.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.25.apk"
 }

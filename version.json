@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.26",
-  "releaseNotes": "• Simplified Security: removed Auto-Lock delay option as requested\n• Pure Biometric App Lock & Privacy Shield\n• Android WorkManager background update notifications when app is closed\n• Google Drive KyoxWage Vault cloud backup and self-healing token authorization",
+  "latestVersion": "1.0.27",
+  "releaseNotes": "• Security Hardening: disabled ADB/cloud backup extraction and enforced strict HTTPS\n• Protected Biometric Lock: requires fingerprint/PIN verification before disabling app lock\n• Quick Lock Vault: immediately lock financial screens anytime from Account Settings\n• Fixed biometric lifecycle handling to prevent authentication prompt loops",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.26.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.27.apk"
 }

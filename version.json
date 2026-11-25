@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.27",
-  "releaseNotes": "• Security Hardening: disabled ADB/cloud backup extraction and enforced strict HTTPS\n• Protected Biometric Lock: requires fingerprint/PIN verification before disabling app lock\n• Quick Lock Vault: immediately lock financial screens anytime from Account Settings\n• Fixed biometric lifecycle handling to prevent authentication prompt loops",
+  "latestVersion": "1.0.28",
+  "releaseNotes": "• Fixed version detection bug (dynamically reads installed app version from OS)\n• Security Hardening: disabled ADB/cloud backup extraction and enforced strict HTTPS\n• Protected Biometric Lock & Quick Lock Vault option in Account Settings\n• Fixed biometric lifecycle handling to prevent authentication prompt loops",
   "isMandatory": false,
-  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.27.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/KavishkaPKP/KyoxWage-Releases/main/KyoxWage-v1.0.28.apk"
 }
